@@ -1,0 +1,26 @@
+C:\димитър 9а\KursovProect\KursovProect\bin\Debug\KursovProect.exe.config
+C:\димитър 9а\KursovProect\KursovProect\bin\Debug\KursovProect.exe
+C:\димитър 9а\KursovProect\KursovProect\bin\Debug\KursovProect.pdb
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.AssemblyReference.cache
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.Form1.resources
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.Properties.Resources.resources
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.GenerateResource.cache
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.CoreCompileInputs.cache
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.exe
+C:\димитър 9а\KursovProect\KursovProect\obj\Debug\KursovProect.pdb
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\bin\Debug\KursovProect.exe.config
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\bin\Debug\KursovProect.exe
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\bin\Debug\KursovProect.pdb
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.AssemblyReference.cache
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Bezalkoholni.resources
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Form1.resources
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Menu.resources
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Osnovno.resources
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Properties.Resources.resources
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.GenerateResource.cache
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.csproj.CoreCompileInputs.cache
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.exe
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.pdb
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Alkoholni.resources
+C:\Users\Стефан\Desktop\KursovProect\KursovProect\obj\Debug\KursovProect.Desert.resources
